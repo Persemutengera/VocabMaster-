@@ -22,7 +22,7 @@
         "foregroundImage": "./src/assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.neaz.vocabmaster"
+      "package": "com.persy.vocabmaster"
     },
     "web": {
       "favicon": "./src/assets/favicon.png"
